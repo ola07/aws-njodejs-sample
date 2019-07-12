@@ -1,1 +1,1 @@
-# aws-njodejs-sample
+# aws-nodejs-sample
